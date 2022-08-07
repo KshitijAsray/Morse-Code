@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MorseCodeapp</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="password">password</string>
+    <string name="login_image">login_image</string>
+    <string name="morse_code_converter">MORSE CODE CONVERTER</string>
+    <string name="logout">logout</string>
+    <string name="clear">Clear</string>
+    <string name="decode">Decode</string>
+    <string name="encode">Encode</string>
+</resources>

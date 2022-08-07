@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598414282049",
+    "project_id": "morsecodeapp-e5e05",
+    "storage_bucket": "morsecodeapp-e5e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598414282049:android:7f88e6d8093790d2b3e5c0",
+        "android_client_info": {
+          "package_name": "com.example.morsecodeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598414282049-dhldt7bbokq6sfpj94fpc6a1mujc0a9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3QEJJS0Vy9H2w5vlSJN93mGXRL96rRKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598414282049-dhldt7bbokq6sfpj94fpc6a1mujc0a9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
